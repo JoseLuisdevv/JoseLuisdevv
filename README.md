@@ -1,7 +1,7 @@
-<h1 align="center">Hola, soy Yirdi 🖤</h1>
+<h1 align="center">Hola, soy José Luis 🖤</h1>
 
 <p align="center">
-  Estudiante de Ingeniería en Sistemas Computacionales · Desarrollo Web · Bases de Datos · Figma · WordPress
+  Ingeniería en Sistemas Computacionales · Desarrollo Web · Bases de Datos · Figma · WordPress · Git · GitHub
 </p>
 
 ---
@@ -9,9 +9,9 @@
 ## 🧑‍💻 Sobre mí
 - Estudiante avanzado de Ingeniería en Sistemas Computacionales.  
 - Experiencia en desarrollo web, diseño de interfaces y gestión de bases de datos.  
-- Manejo HTML, CSS, WordPress, Figma y MySQL.  
+- Manejo HTML, CSS, WordPress, Figma, Git, GitHub y MySQL.  
 - Me gusta crear soluciones limpias, eficientes y centradas en el usuario.  
-- Busco aprender, mejorar y formar parte de proyectos que impulsen innovación.
+- Busco aprender, mejorar y participar en proyectos que impulsen innovación.
 
 ---
 
@@ -23,11 +23,13 @@
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### **Otras Herramientas**
+### **Herramientas y Tecnologías**
 <p>
   <img src="https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 </p>
 
@@ -49,7 +51,8 @@ Diseño de interfaces en Figma y desarrollo del sitio web en WordPress para una 
 - Bases de datos: diseño, consultas e integración.  
 - Desarrollo web con HTML y CSS.  
 - Prototipado en Figma.  
-- WordPress: implementación y personalización.  
+- WordPress: implementación y personalización de sitios.  
+- Control de versiones con Git y GitHub.  
 - Resolución de problemas técnicos.  
 - Trabajo con metodologías ágiles (Scrum).
 
