@@ -36,12 +36,24 @@
 
 ---
 
+
 ## 📂 Experiencia
 
+### **Prototipo de Plataforma Web**  
+📍 *Cancún | Agosto 2024 – Diciembre 2024*    
+Desarrollo del prototipo de una plataforma que conecta estudiantes con microempresas.
+
+### **Desarrollo de Plataforma Web**  
 ### **Desarrollo de Plataforma Web – Innovatec**  
 📍 *Cancún | Enero 2025 – Mayo 2025*  
+Desarrollo del frontend y base de datos de una plataforma que conecta estudiantes con microempresas.
+
+### **Prototipo de Aplicación Movil**  
+📍 *Cancún | Noviembre 2025*   
+Desarrollo de un prototipo en Figma de una aplicación móvil.
 Desarrollo del frontend y la base de datos de una plataforma que conecta estudiantes con microempresas.
 
+### **Prototipo y Desarrollo Web**  
 ### **Prototipo y Desarrollo Web – NDS (Netdata Solutions)**  
 📍 *Cancún | Septiembre 2025 – Diciembre 2025*  
 Diseño de interfaces en Figma y desarrollo del sitio web en WordPress para una notaría.
