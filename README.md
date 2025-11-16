@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy José Luis 🖤</h1>
+<h1 align="center">Hola, soy José Luis</h1>
 
 <p align="center">
   Ingeniería en Sistemas Computacionales · Desarrollo Web · Bases de Datos · Figma · WordPress · Git · GitHub
@@ -70,4 +70,4 @@ Diseño de interfaces en Figma y desarrollo del sitio web en WordPress para una 
 
 ---
 
-<p align="center">🖤 Gracias por visitar mi perfil 🖤</p>
+<p align="center">Gracias por visitar mi perfil</p>
