@@ -38,15 +38,15 @@
 ## 📂 Experiencia
 
 ### **Prototipo de Plataforma Web**  
-📍 *Cancún | Agosto 2024 – Diciembre 2024*  
-Desarrollo del frontend y base de datos de una plataforma que conecta estudiantes con microempresas.
+📍 *Cancún | Agosto 2024 – Diciembre 2024*    
+Desarrollo del prototipo de una plataforma que conecta estudiantes con microempresas.
 
 ### **Desarrollo de Plataforma Web**  
 📍 *Cancún | Enero 2025 – Mayo 2025*  
 Desarrollo del frontend y base de datos de una plataforma que conecta estudiantes con microempresas.
 
 ### **Prototipo de Aplicación Movil**  
-📍 *Cancún | Noviembre 2025* 
+📍 *Cancún | Noviembre 2025*   
 Desarrollo de un prototipo en Figma de una aplicación móvil.
 
 ### **Prototipo y Desarrollo Web**  
