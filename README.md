@@ -56,7 +56,7 @@ Desarrollo de un prototipo en Figma de una aplicación móvil.
 📍 *Cancún | Septiembre 2025 – Diciembre 2025*  
 Diseño de interfaces en Figma y desarrollo del sitio web en WordPress para una notaría.
 
-### **Prototipo y Desarrollo Web**  
+### **Mantenimiento preventivo y correctivo**  
 📍 *Cancún | Septiembre 2025 – Diciembre 2025*  
 Diagnóstico, reparación y optimización de hardware y equipos de cómputo.
 
