@@ -60,7 +60,7 @@ Diseño de interfaces en Figma y desarrollo del sitio web en WordPress para una 
 📍 *Cancún | Septiembre 2025 – Diciembre 2025*  
 Diagnóstico, reparación y optimización de hardware y equipos de cómputo.
 
-### **Prototipo y Desarrollo Web**  
+### **Desarollo de un módulo personalizado en Odoo**  
 📍 *Cancún | Septiembre 2025 – Diciembre 2025*  
 Desarrollé un modulo personalizado en Odoo utilizando Python y su herramienta de depuración (Odoo.log).
 
